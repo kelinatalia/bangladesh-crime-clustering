@@ -14,11 +14,5 @@ This project groups districts in Bangladesh based on crime and demographic patte
 ## Result
 The districts are grouped into 3 clusters with different risk levels, based on population density, infrastructure, and crime rate. Dhaka stands out as a high risk cluster because of its very high population density.
 
-## Files
-```
-No_2.ipynb                          # Main notebook
-Bangladesh_Crime_Dataset_B.csv      # Dataset
-```
-
 ## Tech Stack
 Python, pandas, numpy, scikit-learn, seaborn, matplotlib
